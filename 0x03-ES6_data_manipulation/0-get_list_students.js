@@ -12,7 +12,7 @@ export default function getListStudents() {
     },
     {
       id: 5,
-      firstname: 'Serana',
+      firstname: 'Serena',
       location: 'San Francisco',
     },
   ];
