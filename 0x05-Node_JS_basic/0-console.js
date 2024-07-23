@@ -1,4 +1,5 @@
 // print to the STDOUT
-export default function displayMessage(msg) {
-    console.log(msg);
+function displayMessage(msg) {
+  console.log(msg);
 }
+module.exports = displayMessage;
